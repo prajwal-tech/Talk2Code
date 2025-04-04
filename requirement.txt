@@ -1,0 +1,6 @@
+streamlit
+whisper
+torch
+sounddevice
+scipy
+gpt4all
